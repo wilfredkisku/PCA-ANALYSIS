@@ -16,3 +16,6 @@ show a visual mapping of data from 3D to 2D plane or similarly can be extended f
 ## Result
 
 Data Compression from d dimension to k dimensions
+
+
+Status: Completed
